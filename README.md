@@ -20,6 +20,6 @@ output:
 
 ***Capability 1:  ggplot2 geom_line to show the stock price movement over the years for Tesla shares:*** 
   
-***Capability 2: dplyr filter to show the days when the stock price for Tesla moved by over 15% (profit or loss) in one day ***  
+***Capability 2: dplyr filter to show the days when the stock price for Tesla moved by over 15% (profit or loss) in one day***  
   
 ***Capability 3: dplyr group by and summarise to show the yearly minimum and maximum stock price close and arranging it in descending order of movement in a year*** 
